@@ -10,6 +10,9 @@ int main()
     std::cout << "Some new changes!\n";
     std::cout << "Hello World!\n";
     std::cout << "Hello again!\n";
+    std::cout << "Some new changes!\n";    std::cout << "Some new changes!\n";
+    std::cout << "Hello World!\n";
+    std::cout << "Hello again!\n";
     std::cout << "Some new changes!\n";
 }
 
